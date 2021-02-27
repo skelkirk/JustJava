@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfe7ce0e-9a38-4f0d-9cc5-4379585d382d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Task72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task72.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cJy1PVduhgO6JETm77A3iD5VEa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task1" />
+      <module name="LessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task5" />
+      <module name="LessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task6" />
+      <module name="LessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task7" />
+      <module name="LessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task72" />
+      <module name="LessonOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task72" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfe7ce0e-9a38-4f0d-9cc5-4379585d382d" name="Default Changelist" comment="" />
+      <created>1590260774096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590260774096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="235" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1591538513058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="235" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1591538513058" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1593090121859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593090121859" />
+    <state width="1495" height="262" key="GridCell.Tab.-1.bottom" timestamp="1591535140689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.-1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591535140689" />
+    <state width="1495" height="262" key="GridCell.Tab.-1.center" timestamp="1591535140689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.-1.center/0.0.1536.824@0.0.1536.824" timestamp="1591535140689" />
+    <state width="1495" height="262" key="GridCell.Tab.-1.left" timestamp="1591535140689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.-1.left/0.0.1536.824@0.0.1536.824" timestamp="1591535140689" />
+    <state width="1495" height="262" key="GridCell.Tab.-1.right" timestamp="1591535140689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1591535140689" />
+    <state width="1495" height="129" key="GridCell.Tab.0.bottom" timestamp="1593090134663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="129" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593090134663" />
+    <state width="1495" height="129" key="GridCell.Tab.0.center" timestamp="1593090134663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="129" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593090134663" />
+    <state width="1495" height="129" key="GridCell.Tab.0.left" timestamp="1593090134662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="129" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593090134662" />
+    <state width="1495" height="129" key="GridCell.Tab.0.right" timestamp="1593090134663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="129" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593090134663" />
+    <state width="1495" height="2" key="GridCell.Tab.1.bottom" timestamp="1591536132106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591536132106" />
+    <state width="1495" height="2" key="GridCell.Tab.1.center" timestamp="1591536132106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591536132106" />
+    <state width="1495" height="2" key="GridCell.Tab.1.left" timestamp="1591536132106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591536132106" />
+    <state width="1495" height="2" key="GridCell.Tab.1.right" timestamp="1591536132106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591536132106" />
+    <state width="1495" height="262" key="GridCell.Tab.2.bottom" timestamp="1591535138023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591535138023" />
+    <state width="1495" height="262" key="GridCell.Tab.2.center" timestamp="1591535138023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1591535138023" />
+    <state width="1495" height="262" key="GridCell.Tab.2.left" timestamp="1591535138023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1591535138023" />
+    <state width="1495" height="262" key="GridCell.Tab.2.right" timestamp="1591535138023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="262" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1591535138023" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1591530173072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591530173072" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1591539986885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1591539986885" />
+    <state x="165" y="33" key="new project wizard" timestamp="1593090132202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="165" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593090132202" />
+    <state x="472" y="161" key="refactoring.ChangeSignatureDialog" timestamp="1591538884807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="161" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1591538884807" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591720432798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591720432798" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson2/Task4.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LessonOne$WhileExample.ic" NAME="WhileExample Coverage Results" MODIFIED="1591537005940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
